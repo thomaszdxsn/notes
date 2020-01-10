@@ -38,7 +38,6 @@ graph LR;
 ```mermaid
 graph LR;
     读书 --> 检视阅读;
-    检视阅读 --> 使用'templates/检视阅读.md';
     
     读书 --> 分析阅读;
     分析阅读 --> 实践'templates/分析阅读.md';
