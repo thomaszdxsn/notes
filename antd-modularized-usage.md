@@ -6,7 +6,7 @@ notebook: dev
 
 ## 歧义
 
-官方文档有歧义，在中文文档中，这个配置的说明叫做“按需加载”，在英文文档中，叫做“Use modularzed antd (使用模块化antd)”。
+[官方文档](https://ant.design/docs/react/introduce-cn#%E6%8C%89%E9%9C%80%E5%8A%A0%E8%BD%BD)有歧义，在中文文档中，这个配置的说明叫做“按需加载”，在英文文档中，叫做“Use modularzed antd (使用模块化antd)”。
 
 ## 使用babel插件
 
